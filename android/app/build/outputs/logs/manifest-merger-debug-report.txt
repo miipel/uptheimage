@@ -4,16 +4,22 @@ ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/Android
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-vector-icons] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/2a71326d8413b06c9048b03c5935fbd1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/1f01c284cdb7ca07152893238e2581cb/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/066e6a046000c2ee29913a8b6dd7f2e4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2ba9b9e373929d89a0fc4271928b720b/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/090a1131d1cbe0537299f2ac00849b61/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0769faf7bc08b319c32dcb30041f1396/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/98b1e5b98db041f19bec0cf796efd3a1/AndroidManifest.xml:10:1-18:12
@@ -25,6 +31,7 @@ MERGED from [com.facebook.fresco:drawee:1.3.0] /home/ukipeltomi2/.gradle/caches/
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/ef2694c2ea3c05046794c90ccd59bf26/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e6fd5d907e24fbc5d5f8c0163f27b001/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/81fe668a418ce0c0ad0634ca781bd1ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6688450097450cfa5dce97e4b91a7c19/AndroidManifest.xml:2:1-14:12
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12
@@ -62,16 +69,26 @@ ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/Android
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:7:22-78
 application
 ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/2a71326d8413b06c9048b03c5935fbd1/AndroidManifest.xml:25:5-29:19
@@ -88,6 +105,8 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ukipeltomi2/.gradle/cac
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/24d8de1f96346445add6b21d596d6bb3/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/de3120ba3369d85bd8d18314ca54da55/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/de3120ba3369d85bd8d18314ca54da55/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6688450097450cfa5dce97e4b91a7c19/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6688450097450cfa5dce97e4b91a7c19/AndroidManifest.xml:12:5-20
 	android:label
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:11:7-39
 	android:icon
@@ -120,24 +139,38 @@ ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/Android
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:22:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:25:7-84
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:25:17-81
 uses-sdk
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/2a71326d8413b06c9048b03c5935fbd1/AndroidManifest.xml:21:5-23:63
@@ -146,6 +179,8 @@ MERGED from [com.android.support:support-fragment:26.0.1] /home/ukipeltomi2/.gra
 MERGED from [com.android.support:support-fragment:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/1f01c284cdb7ca07152893238e2581cb/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/066e6a046000c2ee29913a8b6dd7f2e4/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/066e6a046000c2ee29913a8b6dd7f2e4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2ba9b9e373929d89a0fc4271928b720b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2ba9b9e373929d89a0fc4271928b720b/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/090a1131d1cbe0537299f2ac00849b61/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/090a1131d1cbe0537299f2ac00849b61/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0769faf7bc08b319c32dcb30041f1396/AndroidManifest.xml:21:5-23:58
@@ -166,10 +201,12 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/ukipeltomi2/.gr
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e6fd5d907e24fbc5d5f8c0163f27b001/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/81fe668a418ce0c0ad0634ca781bd1ae/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/81fe668a418ce0c0ad0634ca781bd1ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6688450097450cfa5dce97e4b91a7c19/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6688450097450cfa5dce97e4b91a7c19/AndroidManifest.xml:8:5-10:41
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
@@ -178,6 +215,12 @@ INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/Andr
 		INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
 provider#com.imagepicker.FileProvider
 ADDED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
@@ -195,11 +238,13 @@ ADDED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage
 	android:name
 		ADDED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/92bc42e88e303e8635fb12eddbcb4bd4/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/a327aadffa41c5ece9074166990af21b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/7cceb92f672bf203d7f9f740796d5c54/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/a22a62f5ef9bbab01d974201aa1d0cd0/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/2a71326d8413b06c9048b03c5935fbd1/AndroidManifest.xml:26:9-28:38
@@ -208,14 +253,16 @@ MERGED from [com.android.support:support-fragment:26.0.1] /home/ukipeltomi2/.gra
 MERGED from [com.android.support:support-fragment:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/1f01c284cdb7ca07152893238e2581cb/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/066e6a046000c2ee29913a8b6dd7f2e4/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/066e6a046000c2ee29913a8b6dd7f2e4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2ba9b9e373929d89a0fc4271928b720b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2ba9b9e373929d89a0fc4271928b720b/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/090a1131d1cbe0537299f2ac00849b61/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/090a1131d1cbe0537299f2ac00849b61/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0769faf7bc08b319c32dcb30041f1396/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0769faf7bc08b319c32dcb30041f1396/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE

@@ -23,6 +23,25 @@
                     }
                 },
                 {
+                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "303",
+                        "startColumns": "4",
+                        "startOffsets": "22123",
+                        "endLines": "305",
+                        "endColumns": "12",
+                        "endOffsets": "22316"
+                    }
+                },
+                {
                     "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0769faf7bc08b319c32dcb30041f1396/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
