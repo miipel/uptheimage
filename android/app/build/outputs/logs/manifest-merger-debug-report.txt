@@ -7,7 +7,7 @@ INJECTED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/Andr
 MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-vector-icons] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:2:1-15:12
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:2:1-14:12
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:25.3.1] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/AndroidManifest.xml:17:1-31:12
@@ -55,8 +55,8 @@ ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/Android
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/ukipeltomi2/Development/uptheimage/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.CAMERA
@@ -73,8 +73,8 @@ MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/
 MERGED from [:react-native-navigation] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:13:5-20
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:12:5-20
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:12:5-20
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:11:5-20
@@ -155,8 +155,8 @@ MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimag
 MERGED from [:react-native-image-picker] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/ukipeltomi2/Development/uptheimage/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.0] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:8:5-10:41
 MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/d2d7eb0496f5114be22600b9d53f551c/AndroidManifest.xml:8:5-10:41
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/58f0463bb02dfba2b8f9ebd7781441b7/AndroidManifest.xml:7:5-9:41

@@ -1,21 +1,32 @@
-import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { Navigation } from 'react-native-navigation'
+import { Provider } from 'react-redux'
 
-export default class App extends React.Component {
-  render() {
-    return (
-      <View style={styles.container}>
-        <Text>This is a start</Text>
-      </View>
-    )
-  }
-}
+import AuthScreen from './src/screens/Auth'
+import UploadImageScreen from './src/screens/UploadImage'
+import configureStore from './src/store/configureStore'
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center'
-  }
-})
+const store = configureStore()
+
+// Register Screens
+// Navigation.registerComponent(
+//   'uptheimage.AuthScreen',
+//   () => AuthScreen,
+//   store,
+//   Provider
+// )
+
+Navigation.registerComponent(
+  'uptheimage.UploadImageScreen',
+  () => UploadImageScreen,
+  store,
+  Provider
+)
+
+// Start App
+export default () =>
+  Navigation.startSingleScreenApp({
+    screen: {
+      screen: 'uptheimage.AuthScreen',
+      title: 'Login'
+    }
+  })

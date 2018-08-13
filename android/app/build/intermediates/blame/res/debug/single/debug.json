@@ -33,7 +33,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/anim/catalyst_push_up_out.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/drawable-v21_item_background.xml.flat",
@@ -413,7 +413,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/anim/catalyst_fade_in.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
@@ -693,7 +693,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/xml/preferences.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/xml/preferences.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -749,7 +749,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/anim/catalyst_fade_out.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
@@ -781,7 +781,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/anim/catalyst_slide_up.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
@@ -861,7 +861,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/anim/catalyst_push_up_in.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1121,7 +1121,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/layout/redbox_view.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/layout/redbox_view.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_pop.xml.flat",
@@ -1245,7 +1245,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/layout/fps_view.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/layout/fps_view.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1505,7 +1505,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/anim/catalyst_slide_down.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1521,7 +1521,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/layout/redbox_item_title.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
@@ -1837,7 +1837,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/layout/dev_loading_view.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -1849,7 +1849,7 @@
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/6a112138807f7130081576b5f1f28de7/res/layout/redbox_item_frame.xml"
+        "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/88c098069f0408bb30bdab18ce8f5d0d/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",

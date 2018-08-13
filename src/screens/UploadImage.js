@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import { View, Text, Button, Image } from 'react-native'
+import { connect } from 'react-redux'
 
 import PickImage from '../components/PickImage'
+import { addImage } from '../store/actions/index'
 
 class UploadImageScreen extends Component {
   state = {
@@ -30,3 +32,18 @@ class UploadImageScreen extends Component {
     )
   }
 }
+
+const mapStateToProps = state => {
+  return {
+    imageAdded: state.images.imageAdded
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onAddImage: (imageName, image) =>
+      dispatch(addImage(imageName, image))
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(UploadImageScreen)
