@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Aug 06 09:51:46 EEST 2018
+#Tue Aug 14 09:51:25 EEST 2018
 17.baseType=DIRECTORY
 4.path=lib/x86/libfb.so
 25.base=/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

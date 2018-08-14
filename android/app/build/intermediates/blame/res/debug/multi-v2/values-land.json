@@ -4,6 +4,16 @@
             "outputFile": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
+                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e5b559f51a63bb6b9f423bf3b6a44ceb/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
                     "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/aee2cecbc2598f83bcc177e517df3f3e/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
@@ -20,16 +30,6 @@
                         "endLines": "9",
                         "endColumns": "12",
                         "endOffsets": "505"
-                    }
-                },
-                {
-                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/res/values-land/values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

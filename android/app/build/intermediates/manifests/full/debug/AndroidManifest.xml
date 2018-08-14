@@ -54,10 +54,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/provider_paths" />
         </provider>
-
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.0.1" />
     </application>
 
 </manifest>

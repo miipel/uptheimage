@@ -4,32 +4,13 @@
             "outputFile": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/0769faf7bc08b319c32dcb30041f1396/res/values-v16/values-v16.xml",
+                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e5b559f51a63bb6b9f423bf3b6a44ceb/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "65",
                         "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
                     }
                 }
             ]

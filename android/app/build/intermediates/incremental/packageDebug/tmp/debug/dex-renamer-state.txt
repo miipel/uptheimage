@@ -1,4 +1,4 @@
-#Mon Aug 13 12:54:18 EEST 2018
+#Tue Aug 14 09:51:24 EEST 2018
 base.0=/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

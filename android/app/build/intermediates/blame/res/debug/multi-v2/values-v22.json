@@ -4,7 +4,7 @@
             "outputFile": "/home/ukipeltomi2/Development/uptheimage/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6f2e65c48df27d9fdf978a112c637728/res/values-v22/values-v22.xml",
+                    "source": "/home/ukipeltomi2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e5b559f51a63bb6b9f423bf3b6a44ceb/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
