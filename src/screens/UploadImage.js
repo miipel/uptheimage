@@ -26,7 +26,7 @@ class UploadImageScreen extends Component {
   render() {
     return (
       <View>
-        <h1>Share an image</h1>
+        <Text>Upload an image</Text>
         <PickImage />
       </View>
     )
@@ -41,9 +41,11 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
   return {
-    onAddImage: (imageName, image) =>
-      dispatch(addImage(imageName, image))
+    onAddImage: (imageName, image) => dispatch(addImage(imageName, image))
   }
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(UploadImageScreen)
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(UploadImageScreen)

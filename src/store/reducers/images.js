@@ -1,12 +1,16 @@
-import { SET_IMAGES, START_ADD_IMAGE, IMAGE_ADDED } from '../actions/actionTypes'
+import {
+  SET_IMAGES,
+  START_ADD_IMAGE,
+  IMAGE_ADDED
+} from '../actions/actionTypes'
 
 const initialState = {
   images: [],
-  placeAdded: false
+  imageAdded: false
 }
 
 const reducer = (state = initialState, action) => {
-  switch(action.type) {
+  switch (action.type) {
     case SET_IMAGES:
       return {
         ...state,
@@ -15,12 +19,12 @@ const reducer = (state = initialState, action) => {
     case START_ADD_IMAGE:
       return {
         ...state,
-        placeAdded: false
+        imageAdded: false
       }
     case IMAGE_ADDED:
       return {
         ...state,
-        placeAdded: true
+        imageAdded: true
       }
     default:
       return state

@@ -1,4 +1,4 @@
-import startMainTabs from "../../screens/startMainTabs";
+import startMainTabs from '../../screens/startMainTabs'
 
 export const tryAuth = () => {
   startMainTabs()

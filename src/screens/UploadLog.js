@@ -1,14 +1,14 @@
-import React, {Component} from 'react'
-import { View } from "react-native";
+import React, { Component } from 'react'
+import { View, Text } from 'react-native'
 
-class UploadLog extends Component {
-  render () {
-    return (
-      <View>
-        <h1>Placeholder</h1>
-      </View>
-    )
-  }
+import { connect } from 'react-redux'
+
+const UploadLog = () => {
+  return (
+    <View>
+      <Text>Placeholder</Text>
+    </View>
+  )
 }
 
 export default UploadLog

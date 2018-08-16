@@ -1,7 +1,25 @@
-import SET_IMAGES from './actionTypes'
+import { SET_IMAGES, START_ADD_IMAGE, IMAGE_ADDED } from './actionTypes'
 
-export const addImage = (imageName, image) => {
-  console.log(imageName)
+export const startAddImage = () => {
+  return {
+    type: START_ADD_IMAGE
+  }
+}
+
+export const addImage = (ImageName, image) => {
+  return {
+    type: START_ADD_IMAGE
+  }
+}
+
+export const imageAdded = () => {
+  return {
+    type: IMAGE_ADDED
+  }
+}
+
+export const getImages = () => {
+  console.log('TODO: getImages')
 }
 
 export const setImages = images => {

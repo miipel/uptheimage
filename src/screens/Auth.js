@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
-import { MainText, HeadingText } from 'react-native'
+import { View, Text, Button } from 'react-native'
 import { connect } from 'react-redux'
+
+import { tryAuth } from '../store/actions/index'
 
 class AuthScreen extends Component {
   state = {
@@ -32,13 +34,31 @@ class AuthScreen extends Component {
     }
   }
 
+  authHandler = () => {
+    this.props.onTryAuth()
+  }
+
   render() {
     return (
-      <MainText>
-        <HeadingText>Please Log In</HeadingText>
-      </MainText>
+      <View>
+        <Text>Please log in</Text>
+        <Button
+          onPress={this.authHandler}
+          title="Please Log In"
+          color="#841584"
+        />
+      </View>
     )
   }
 }
 
-export default connect(AuthScreen)
+const mapDispatchToProps = dispatch => {
+  return {
+    onTryAuth: () => dispatch(tryAuth())
+  }
+}
+
+export default connect(
+  null,
+  mapDispatchToProps
+)(AuthScreen)

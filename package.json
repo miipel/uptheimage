@@ -6,6 +6,7 @@
     "babel-preset-react-native-stage-0": "^1.0.1",
     "jest": "^23.4.2",
     "jest-react-native": "^18.0.0",
+    "prettier": "1.14.2",
     "react-test-renderer": "16.3.1"
   },
   "scripts": {
@@ -25,6 +26,7 @@
     "react-native-navigation": "^1.1.479",
     "react-native-vector-icons": "^5.0.0",
     "react-redux": "^5.0.7",
-    "redux": "^4.0.0"
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
   }
 }
