@@ -25,21 +25,23 @@ const startTabs = () => {
             leftButtons: [
               {
                 icon: sources[2],
-                title: 'Menu'
+                title: 'Menu',
+                id: 'sideDrawerToggle'
               }
             ]
           }
         },
         {
           screen: 'uptheimage.UploadImageScreen',
-          label: 'Upload Your Image',
-          title: 'Upload Your Image',
+          label: 'Upload Image',
+          title: 'Upload Image',
           icon: sources[1],
           navigatorButtons: {
             leftButtons: [
               {
                 icon: sources[2],
-                title: 'Menu'
+                title: 'Menu',
+                id: 'sideDrawerToggle'
               }
             ]
           }
@@ -47,6 +49,11 @@ const startTabs = () => {
       ],
       tabsStyle: {
         tabBarSelectedButtonColor: 'blue'
+      },
+      drawer: {
+        left: {
+          screen: 'uptheimage.SideDrawer'
+        }
       },
       appStyle: {
         tabBarSelectedButtonColor: 'blue'

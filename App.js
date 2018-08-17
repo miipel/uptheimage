@@ -4,6 +4,7 @@ import { Provider } from 'react-redux'
 import AuthScreen from './src/screens/Auth'
 import UploadImageScreen from './src/screens/UploadImage'
 import UploadLogScreen from './src/screens/UploadLog'
+import SideDrawer from './src/screens/SideDrawer'
 import configureStore from './src/store/configureStore'
 
 const store = configureStore()
@@ -26,6 +27,13 @@ Navigation.registerComponent(
 Navigation.registerComponent(
   'uptheimage.UploadLogScreen',
   () => UploadLogScreen,
+  store,
+  Provider
+)
+
+Navigation.registerComponent(
+  'uptheimage.SideDrawer',
+  () => SideDrawer,
   store,
   Provider
 )
