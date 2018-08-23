@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
-import { View, Text, Button } from 'react-native'
+import { View, Text, Button, TouchableOpacity, StyleSheet } from 'react-native'
 import { connect } from 'react-redux'
+
+import ButtoWithBackground from '../components/UI/ButtonWithBackground'
 
 import { tryAuth } from '../store/actions/index'
 
@@ -40,17 +42,30 @@ class AuthScreen extends Component {
 
   render() {
     return (
-      <View>
-        <Text>Please log in</Text>
-        <Button
-          onPress={this.authHandler}
-          title="Please Log In"
-          color="#841584"
-        />
+      <View style={styles.container}>
+        <View style={styles.inputContainer}>
+          <Text>Please log in</Text>
+          <ButtoWithBackground color="#008BEC" onPress={this.authHandler}>
+            Log In
+          </ButtoWithBackground>
+        </View>
       </View>
     )
   }
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center'
+  },
+  inputContainer: {
+    width: '80%',
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
+})
 
 const mapDispatchToProps = dispatch => {
   return {

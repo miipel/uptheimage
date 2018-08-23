@@ -1,14 +1,15 @@
 import React, { Component } from 'react'
-import { View, Text, Button, Image } from 'react-native'
+import { View, Text, Button, Image, StyleSheet } from 'react-native'
 import { connect } from 'react-redux'
 
 import PickImage from '../components/PickImage'
 import { addImage } from '../store/actions/index'
+import { ImageInput } from '../components/ImageInput'
 
 class UploadImageScreen extends Component {
   state = {
     controls: {
-      imageName: {
+      imageDescription: {
         value: '',
         valid: false,
         touched: false,
@@ -23,15 +24,66 @@ class UploadImageScreen extends Component {
     }
   }
 
+  imageDescriptionChangedHandler = val => {
+    this.setState(prevState => {
+      return {
+        controls: {
+          ...prevState.controls,
+          placeName: {
+            ...prevState.controls.placeName,
+            value: val,
+            valid: false, // TODO: validation
+            touched: true
+          }
+        }
+      }
+    })
+  }
+
+  imagePickedHandler = image => {
+    this.setState(prevState => {
+      return {
+        controls: {
+          ...prevState.controls,
+          image: {
+            value: image,
+            valid: true
+          }
+        }
+      }
+    })
+  }
+
   render() {
     return (
-      <View>
-        <Text>Upload an image</Text>
-        <PickImage />
+      <View style={styles.container}>
+        <View style={styles.inputContainer}>
+          <PickImage
+            onImagePicked={this.imagePickedHandler}
+            ref={ref => (this.imagePicker = ref)}
+          />
+          <ImageInput
+            imageData={this.state.controls.imageDescription}
+            onChangeText={this.imageDescriptionChangedHandler}
+          />
+        </View>
       </View>
     )
   }
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center'
+  },
+  inputContainer: {
+    width: '80%',
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
+})
 
 const mapStateToProps = state => {
   return {
@@ -41,7 +93,8 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
   return {
-    onAddImage: (imageName, image) => dispatch(addImage(imageName, image))
+    onAddImage: (imageDescription, image) =>
+      dispatch(addImage(imageDescription, image))
   }
 }
 

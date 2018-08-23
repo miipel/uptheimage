@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
-import { View, Image, Button } from 'react-native'
+import { View, Image, StyleSheet } from 'react-native'
 import ImagePicker from 'react-native-image-picker'
+
+import ButtonWithBackground from '../components/UI/ButtonWithBackground'
 
 class PickImage extends Component {
   state = {
@@ -17,8 +19,9 @@ class PickImage extends Component {
           console.log('Error')
         } else {
           this.setState({
-            pickedImage: null // TODO:
+            pickedImage: { uri: res.uri }
           })
+          this.props.onImagePicked({ uri: res.uri, base64: res.data })
         }
       }
     )
@@ -26,16 +29,39 @@ class PickImage extends Component {
 
   render() {
     return (
-      <View>
-        <View>
-          <Image />
+      <View style={styles.container}>
+        <View style={styles.placeholder}>
+          <Image source={this.state.pickedImage} style={styles.previewImage} />
         </View>
         <View>
-          <Button title="Pick Your Image" onPress={this.pickImageHandler} />
+          <ButtonWithBackground color="#008BEC" onPress={this.pickImageHandler}>
+            Pick an Image
+          </ButtonWithBackground>
         </View>
       </View>
     )
   }
 }
+
+const styles = StyleSheet.create({
+  container: {
+    width: '100%',
+    alignItems: 'center'
+  },
+  placeholder: {
+    borderWidth: 1,
+    borderColor: 'black',
+    backgroundColor: '#eee',
+    width: '80%',
+    height: 150
+  },
+  button: {
+    margin: 8
+  },
+  previewImage: {
+    width: '100%',
+    height: '100%'
+  }
+})
 
 export default PickImage

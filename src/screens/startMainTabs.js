@@ -48,7 +48,7 @@ const startTabs = () => {
         }
       ],
       tabsStyle: {
-        tabBarSelectedButtonColor: 'blue'
+        tabBarSelectedButtonColor: '#008BEC'
       },
       drawer: {
         left: {
@@ -56,7 +56,7 @@ const startTabs = () => {
         }
       },
       appStyle: {
-        tabBarSelectedButtonColor: 'blue'
+        tabBarSelectedButtonColor: '#008BEC'
       }
     })
   })

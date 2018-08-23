@@ -1,6 +1,6 @@
 # Up the image
 
-Meant to upload images from your phone to firebase storage.
+Upload images from your phone to firebase storage.
 
 ## Getting Started
 
@@ -12,6 +12,6 @@ TODO
 
 ## Features
 
-* Authentication through Firebase
-* Upload an image with description
-* Possible future feature: Integration with Google Drive
+- Authentication through Firebase
+- Upload an image with description
+- Possible future feature: Integration with Google Drive

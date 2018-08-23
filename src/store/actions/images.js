@@ -6,7 +6,7 @@ export const startAddImage = () => {
   }
 }
 
-export const addImage = (ImageName, image) => {
+export const addImage = (imageDescription, image) => {
   return {
     type: START_ADD_IMAGE
   }
