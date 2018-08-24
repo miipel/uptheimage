@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import { View, Text, Button, Image, StyleSheet } from 'react-native'
+import { View, StyleSheet } from 'react-native'
 import { connect } from 'react-redux'
 
 import PickImage from '../components/PickImage'
 import { addImage } from '../store/actions/index'
-import { ImageInput } from '../components/ImageInput'
+import ImageInput from '../components/ImageInput'
 
 class UploadImageScreen extends Component {
   state = {
@@ -25,6 +25,7 @@ class UploadImageScreen extends Component {
   }
 
   imageDescriptionChangedHandler = val => {
+    console.log('Desc.changed')
     this.setState(prevState => {
       return {
         controls: {

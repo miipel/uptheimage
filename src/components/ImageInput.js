@@ -1,13 +1,13 @@
 import React from 'react'
 
-import DefaultInput from '../components/UI/DefaultInput'
+import DefaultInput from './UI/DefaultInput'
 
 const imageInput = props => (
   <DefaultInput
     placeholder="Your description"
     value={props.imageData.value}
-    valid={props.placeData.valid}
-    touched={props.placeData.touched}
+    valid={props.imageData.valid}
+    touched={props.imageData.touched}
     onChangeText={props.onChangeText}
   />
 )
