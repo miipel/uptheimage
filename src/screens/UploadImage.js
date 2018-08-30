@@ -25,20 +25,20 @@ class UploadImageScreen extends Component {
   }
 
   imageDescriptionChangedHandler = val => {
-    console.log('Desc.changed')
     this.setState(prevState => {
       return {
         controls: {
           ...prevState.controls,
-          placeName: {
-            ...prevState.controls.placeName,
+          imageDescription: {
+            ...prevState.controls.imageDescription,
             value: val,
-            valid: false, // TODO: validation
+            valid: true, // TODO: validation
             touched: true
           }
         }
       }
     })
+    console.log(this.state.controls.imageDescription.value)
   }
 
   imagePickedHandler = image => {
