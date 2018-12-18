@@ -15,3 +15,5 @@ TODO
 - Authentication through Firebase
 - Upload an image with description
 - Possible future feature: Integration with Google Drive
+
+![User Interface](/uptheimage.jpg)
